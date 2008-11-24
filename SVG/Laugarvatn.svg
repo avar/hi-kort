@@ -8,13 +8,14 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="744.09448819"
-   height="1052.3622047"
+   width="1759.7925"
+   height="1078.8625"
    id="svg10372"
    sodipodi:version="0.32"
    inkscape:version="0.46"
    sodipodi:docname="Laugarvatn.svg"
-   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.0">
   <defs
      id="defs10374">
     <inkscape:perspective
@@ -59,7 +60,8 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(504.89625,7.06905)">
     <g
        transform="matrix(1.25,0,0,-1.25,-831.39125,1392.7222)"
        id="g7704">

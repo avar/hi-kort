@@ -8,13 +8,14 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="744.09448819"
-   height="1052.3622047"
+   width="1163.6375"
+   height="1177.7446"
    id="svg8609"
    sodipodi:version="0.32"
    inkscape:version="0.46"
    sodipodi:docname="Vesturbær, Vatnsmýri, Hringbraut.svg"
-   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.0">
   <defs
      id="defs8611">
     <inkscape:perspective
@@ -59,7 +60,8 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(206.8188,56.51015)">
     <g
        transform="matrix(1.25,0,0,-1.25,-2358.6938,5147.8111)"
        id="g7028">

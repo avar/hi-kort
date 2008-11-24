@@ -8,13 +8,14 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="744.09448819"
-   height="1052.3622047"
+   width="1451.27"
+   height="488.625"
    id="svg8220"
    sodipodi:version="0.32"
    inkscape:version="0.46"
    sodipodi:docname="Vatnsmýri.svg"
-   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.0">
   <defs
      id="defs8222">
     <inkscape:perspective
@@ -59,7 +60,8 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(350.635,-288.04965)">
     <g
        transform="matrix(1.25,0,0,-1.25,-673.74,4671.2034)"
        id="g7407">

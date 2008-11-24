@@ -8,13 +8,14 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="744.09448819"
-   height="1052.3622047"
+   width="1581.9325"
+   height="686.95001"
    id="svg10157"
    sodipodi:version="0.32"
    inkscape:version="0.46"
    sodipodi:docname="Hringbraut.svg"
-   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.0">
   <defs
      id="defs10159">
     <inkscape:perspective
@@ -59,7 +60,8 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(415.96625,-188.88715)">
     <g
        transform="matrix(1.25,0,0,-1.25,-739.07125,3637.8909)"
        id="g7567">

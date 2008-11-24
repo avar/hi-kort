@@ -8,13 +8,14 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="744.09448819"
-   height="1052.3622047"
+   width="1703.6575"
+   height="651.22498"
    id="svg10249"
    sodipodi:version="0.32"
    inkscape:version="0.46"
    sodipodi:docname="Stakkahlíð, Skipholt.svg"
-   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.0">
   <defs
      id="defs10251">
     <inkscape:perspective
@@ -59,7 +60,8 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(476.82875,-206.74965)">
     <g
        transform="matrix(1.25,0,0,-1.25,-799.93375,2666.2784)"
        id="g7630">
